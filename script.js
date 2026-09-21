@@ -19,8 +19,9 @@ window.addEventListener('load', () => {
 /* ===== 2. Typing effect (hero) ===== */
 const roles = [
   'an Aspiring AI Engineer',
+  'a Data Analyst',
   'a Machine Learning Enthusiast',
-  'a Python Developer',
+  'a Web Developer',
   'a Data Science Learner'
 ];
 
